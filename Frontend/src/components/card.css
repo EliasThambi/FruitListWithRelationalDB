@@ -1,0 +1,16 @@
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+    gap:10px;
+    float:right;
+}
+.items{
+    display: flex;
+    justify-content: flex-start;
+    float:left;   
+}
+.card{
+    display: flex;
+    /* justify-content: flex-end; */
+    gap:500px;
+}

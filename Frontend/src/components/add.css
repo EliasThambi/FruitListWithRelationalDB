@@ -1,0 +1,15 @@
+.Adding{
+    height:150px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    /* justify-content: flex-end; */
+    gap:15px;
+    align-items: center;
+
+}
+.btn1{
+    display: flex;
+    
+    
+}
